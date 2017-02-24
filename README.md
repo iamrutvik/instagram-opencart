@@ -34,7 +34,7 @@ You can change the view of the module by editing the instagram.tpl file in catal
 
 You can download it from [https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=27075](Opencart "Opencart Instagram module").
 
-$ Isuues
+# Isuues
 
 You can go through the comments section on [https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=27075](Opencart "Opencart Instagram module"). You can create an issue on Github as well.
 
