@@ -36,5 +36,5 @@ You can download it from [Opencart](https://www.opencart.com/index.php?route=mar
 
 # Isuues
 
-You can go through the comments section on [https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=27075](Opencart "Opencart Instagram module"). You can create an issue on Github as well.
+You can go through the comments section on [Opencart](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=27075 "Opencart Instagram module"). You can create an issue on Github as well.
 
