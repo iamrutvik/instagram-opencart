@@ -32,7 +32,7 @@ You can change the view of the module by editing the instagram.tpl file in catal
 
 # On Opencart
 
-You can download it from [https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=27075](Opencart "Opencart Instagram module").
+You can download it from [Opencart](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=27075 "Opencart Instagram module").
 
 # Isuues
 
